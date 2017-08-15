@@ -655,3 +655,7 @@ html, body {
   background-color: #f58780;
   display: none;
 }
+
+.cd-single-item.cd-active.cd-not-visible {
+visibility: visible;
+}
