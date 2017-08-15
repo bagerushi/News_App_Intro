@@ -129,6 +129,11 @@ html, body {
   float: right;
   margin: 10px 5% 0 0;
 }
+.cd-header #cd-action1 {
+  display: inline-block;
+  float: right;
+  margin: 10px 5% 0 0;
+}
 .cd-header .btn {
   height: 30px;
   line-height: 30px;
